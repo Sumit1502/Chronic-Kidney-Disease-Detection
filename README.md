@@ -1,1 +1,2 @@
-# Chronic-Kidney-Disease-Detection
+Chronic Kidney Disease Detection
+This project focuses on developing a machine learning model to detect Chronic Kidney Disease (CKD) based on patient health data. Using various features such as age, blood pressure, glucose levels, and more, the model predicts whether a patient is likely to have CKD. The dataset includes medical records of patients, and the model is trained using classification algorithms to identify patterns that signify the presence of CKD. By the end of the project, the model offers a reliable tool for early detection of CKD, which can aid in timely medical intervention and treatment.
